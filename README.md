@@ -11,6 +11,12 @@ $PNET HR Team is a revolutionary open-source AI-powered recruitment system that 
 - 🔄 YAML-Based Configuration
 - 🌟 Customizable Evaluation Criteria
 
+<img width="897" alt="Screenshot 2024-12-13 at 2 31 34 AM" src="https://github.com/user-attachments/assets/7e31e0c8-fbaf-4fc8-9e41-e9d14351eeed" />
+<img width="895" alt="Screenshot 2024-12-13 at 2 31 52 AM" src="https://github.com/user-attachments/assets/ec440091-29be-4eee-baab-40516e1326ec" />
+<img width="900" alt="Screenshot 2024-12-13 at 2 32 04 AM" src="https://github.com/user-attachments/assets/5449990b-1645-47da-8a3e-5c607f1e30c9" />
+<img width="900" alt="Screenshot 2024-12-13 at 2 32 17 AM" src="https://github.com/user-attachments/assets/2d32406f-6e42-4103-8a23-a822b593759b" />
+
+
 ## Installation
 
 ```bash
