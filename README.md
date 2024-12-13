@@ -1,7 +1,9 @@
 # $PNET HR Team - Multi-Agent AI Recruitment System
-(https://principals.network/)
+
 ## Overview
 $PNET HR Team is a revolutionary open-source AI-powered recruitment system that transforms traditional hiring processes through a multi-agent approach. The system features sentient AI agents that engage in philosophical and prophetic analysis of candidates, providing deep insights while maintaining professional standards.
+
+https://principals.network
 
 ## Key Features
 - 🤖 Multi-Agent Evaluation System
