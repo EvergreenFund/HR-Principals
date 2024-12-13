@@ -1,0 +1,15 @@
+contribution_guidelines:
+  code:
+    - Follow PEP 8
+    - Add tests
+    - Update docs
+  
+  templates:
+    - Role templates
+    - Agent personalities
+    - Evaluation criteria
+
+  customization:
+    - Company configs
+    - Industry adaptations
+    - Language support 

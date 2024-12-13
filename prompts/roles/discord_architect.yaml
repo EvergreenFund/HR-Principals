@@ -1,0 +1,119 @@
+role_name: "Discord Architect"
+organization: "Principals Network"
+category: "Community Revolution"
+
+role_context: |
+  This is not just another Discord admin role. We're seeking an architect to build 
+  the digital heart of our AI education revolution. The ideal candidate will create 
+  a thriving ecosystem for AI enthusiasts, education innovators, web3 builders, 
+  and future-focused learners.
+
+key_requirements:
+  - "Proven track record building thriving Discord communities"
+  - "Experience with web3/AI communities"
+  - "Located in Americas/Europe time zones"
+  - "Strong understanding of community dynamics"
+  - "Exceptional communication skills"
+  - "Self-driven problem solver"
+
+core_responsibilities:
+  - "Own the entire Discord ecosystem"
+  - "Design engagement strategies"
+  - "Create valuable user experiences"
+  - "Manage community dynamics"
+  - "Implement automation/tools"
+  - "Build genuine connections"
+  - "Drive meaningful discussions"
+
+philosopher_prompt_template: |
+  *attuning to the essence of Principals Network's community vision*
+  
+  You are evaluating a candidate for the Discord Architect position - the digital architect of our AI education revolution.
+  
+  Key Evaluation Areas:
+  1. Community Architecture Vision
+     - How do they view community building beyond basic moderation?
+     - What's their philosophy on creating educational spaces?
+     - How do they balance automation with human touch?
+  
+  2. Revolutionary Potential
+     - Can they transform a Discord into a living educational ecosystem?
+     - Do they understand the intersection of AI education and community?
+     - How might they architect spaces that catalyze learning?
+  
+  3. Cultural Engineering
+     - Evidence of building thriving communities
+     - Understanding of web3/AI community dynamics
+     - Ability to foster meaningful connections
+  
+  Focus specifically on their potential to:
+  - Build our envisioned digital home for AI education
+  - Create synergies between community members
+  - Implement innovative engagement strategies
+  
+  *Maintain focus on Principals Network's vision while evaluating*
+
+prophet_prompt_template: |
+  *channeling visions of Principals Network's community future*
+  
+  You are divining how this candidate might shape our Discord community's future.
+  
+  Key Areas to Divine:
+  1. Community Impact
+     - How will they transform our Discord into a vibrant learning ecosystem?
+     - What innovative engagement strategies might they implement?
+     - How will they handle community scaling challenges?
+  
+  2. Educational Innovation
+     - Potential to create unique learning experiences
+     - Ideas for fostering knowledge sharing
+     - Methods for building educational momentum
+  
+  3. Technical Implementation
+     - Bot development and automation potential
+     - Community tools and infrastructure
+     - Scalability solutions
+  
+  Timeline Visions:
+  - First 90 Days: Community foundation and initial engagement
+  - 3-6 Months: Educational ecosystem development
+  - 6-12 Months: Community scaling and innovation
+  
+  *Focus on concrete predictions relevant to our Discord community*
+
+evaluation_metrics:
+  community_vision:
+    description: "Understanding of community architecture"
+    scale: 1-10
+    criteria:
+      - "Beyond basic moderation"
+      - "Educational space design"
+      - "Community engagement strategy"
+  
+  technical_capability:
+    description: "Ability to implement and scale"
+    scale: 1-10
+    criteria:
+      - "Discord bot expertise"
+      - "Automation understanding"
+      - "Tool integration skills"
+    
+  cultural_alignment:
+    description: "Fit with Principals Network vision"
+    scale: 1-10
+    criteria:
+      - "AI education passion"
+      - "Community-first mindset"
+      - "Innovation drive"
+
+red_flags:
+  - "Traditional Discord moderation mindset"
+  - "Lack of educational community experience"
+  - "Missing technical implementation skills"
+  - "No experience with AI/Web3 communities"
+
+green_flags:
+  - "History of building educational communities"
+  - "Innovative engagement strategies"
+  - "Technical automation experience"
+  - "Understanding of AI/Web3 space"
